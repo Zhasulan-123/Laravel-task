@@ -222,7 +222,7 @@
         </aside>
 
         <!-- Content Wrapper. Contains page content -->
-        @yield('content');
+        @yield('content')
         <!-- /.content-wrapper -->
 
         <!-- Main Footer -->
